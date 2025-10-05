@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "email": "khalid@test.com",
+      "password": "$2a$10$56WJuk9B2QfFiq9P9EFOFuvn7NB3lnc4jtmLYey7wdBz1ydq3fPU2",
+      "name": "Khalid",
+      "id": 1,
+      "avatar": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "email": "eslam@test.com",
+      "password": "$2a$10$qrN8r.BPoZa3k9ntK.N7C.16FDnd7HjugeNP8pzQUKGCuKO62YXCu",
+      "name": "Eslam",
+      "id": 2,
+      "avatar": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": 1759661583812,
+      "email": "ayman@test.com",
+      "password": "$2b$10$XoP8WLM/KUtTQeuNg11XWOnQToApLuEAfvPlxdS5bRe9eIUIPTRWS",
+      "avatar": "https://i.pravatar.cc/150?u=ayman@test.com"
+    },
+    {
+      "id": 1759662468878,
+      "name": "naira ahmad",
+      "email": "naira123@gmail.com",
+      "password": "$2b$10$yZUEFC5qteAd5uGTCNLZQOsTFN1NlwGO6cclOSj.RPhVyBQsmuHru",
+      "avatar": "https://i.pravatar.cc/150?u=naira123@gmail.com"
+    },
+    {
+      "id": 1759662535098,
+      "name": "nada",
+      "email": "nada111@gmail.com",
+      "password": "$2b$10$rLq/SKXrHCmYaMIjO8J1Me5RJldYnZpkxt8utKmeah/2ezXwFYrVC",
+      "avatar": "https://i.pravatar.cc/150?u=nada111@gmail.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Future of Web Development: AI Tools",
+      "description": "Artificial Intelligence is rapidly changing how we write code. Explore the best AI tools for frontend developers in 2025 and beyond.",
+      "image": "https://picsum.photos/600/300?random=101",
+      "authorName": "Khalid",
+      "date": "10/01/2025"
+    },
+    {
+      "id": 2,
+      "title": "Mastering React Hooks: The Complete Guide",
+      "description": "Stop using class components! This guide covers useEffect, useContext, and custom hooks to write cleaner and more performant React applications.",
+      "image": "https://picsum.photos/600/300?random=102",
+      "authorName": "Eslam",
+      "date": "09/25/2025"
+    },
+    {
+      "id": 3,
+      "title": "10 Tips for Better Productivity in Coding",
+      "description": "Learn how to manage your time, utilize the Pomodoro technique, and minimize distractions to boost your coding output dramatically.",
+      "image": "https://picsum.photos/600/300?random=103",
+      "authorName": "nada",
+      "date": "10/05/2025"
+    },
+    {
+      "id": 4,
+      "title": "Next.js vs. Vite: Choosing the Right Framework",
+      "description": "A deep dive into the pros and cons of Next.js and Vite for building modern web applications. Speed vs. Features.",
+      "image": "https://picsum.photos/600/300?random=104",
+      "authorName": "Khalid",
+      "date": "09/15/2025"
+    },
+    {
+      "id": 5,
+      "title": "The Power of Tailwind CSS Components",
+      "description": "Go beyond utility classes! Discover how to build reusable, complex components with Tailwind that are easy to maintain.",
+      "image": "https://picsum.photos/600/300?random=105",
+      "authorName": "Eslam",
+      "date": "09/01/2025"
+    },
+    {
+      "id": 6,
+      "title": "Why JavaScript is Still King in 2025",
+      "description": "Despite the rise of competing languages, JavaScript remains foundational for web development. We discuss its ecosystem and future.",
+      "image": "https://picsum.photos/600/300?random=106",
+      "authorName": "nada",
+      "date": "08/28/2025"
+    }
+  ]
+}
