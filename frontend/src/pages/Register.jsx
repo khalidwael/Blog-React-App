@@ -48,7 +48,7 @@ export default function Register() {
     >
       <div className="w-full max-w-md">
         
-        <h1 className="text-4xl font-extrabold text-white text-center mb-8 drop-shadow-lg">
+        <h1 className="text-4xl font-extrabold text-blue-600 text-center mb-8 drop-shadow-lg">
             Jotter Sign Up
         </h1>
 
